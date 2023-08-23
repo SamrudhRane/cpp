@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+class list{
+char name[50];
+cout<<"Enter Passenger's Name:  " << name;
+int age;
+cout<<"Enter Passenger's age:  " << age ;
+}
+int main 
+{
+class list();
+}
